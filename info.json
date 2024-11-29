@@ -1,0 +1,20 @@
+{
+    "albums": [
+      {
+        "name": "Natt",
+        "cover": "songs/Natt/cover.jpg",
+        "paragraph": "Peace be upon him"
+      },
+      {
+        "name": "Kalam",
+        "cover": "songs/Kalam/cover.jpg",
+        "paragraph": "Seeking for guidance"
+      },
+      {
+        "name": "Dua",
+        "cover": "songs/Dua/cover.jpg",
+        "paragraph": "May we follow the right path"
+      }
+    ]
+  }
+  

@@ -1,0 +1,49 @@
+/* Layout Utilities */
+.flex { display: flex; }
+.block { display: block; }
+.inline { display: inline; }
+.center { margin-left: auto; margin-right: auto; }
+/* Text Utilities */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.bold { font-weight: bold; }
+.uppercase { text-transform: uppercase; }
+/* Flexbox Utilities */
+.justify-center { justify-content: center; }
+.align-center { align-items: center; }
+.self-start { align-self: flex-start; }
+/* Display Utilities */
+.hidden { display: none; }
+.inline-block { display: inline-block; }
+/* Border Utilities */
+.border { border: 1px solid #ff0000; }
+.rounded { border-radius: 7px; }
+/* Background Utilities */
+.bg-primary { background-color: #007bff; }
+.bg-light { background-color: #f8f9fa; }
+/* Positioning */
+.relative { position: relative; }
+.absolute { position: absolute; }
+/* Margin & Padding Utilities */
+.m-0 { margin: 0; }
+.m-1 { margin: 5px; }
+.m-2 { margin: 8px; }
+.m-3 { margin: 16px; }
+.p-0 { padding: 0; }
+.p-1 { padding: 4px; }
+.p-2 { padding: 7px; }
+.p-3 { padding: 16px; }
+.bg-gray {
+    background-color: #121212;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+
+
+  
